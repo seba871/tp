@@ -14,7 +14,7 @@ const fuenteOriginal = "Arial";
 const tamanoOriginal = "20px";
 
 btnFondo.addEventListener("click", () => {
-    parrafo.style.backgroundColor = "yellow";
+    parrafo.style.backgroundColor = "red";
 });
 
 btnTexto.addEventListener("click", () => {
@@ -22,7 +22,7 @@ btnTexto.addEventListener("click", () => {
 });
 
 btnColor.addEventListener("click", () => {
-    parrafo.style.color = "red";
+    parrafo.style.color = "blue";
 });
 
 btnLetra.addEventListener("click", () => {

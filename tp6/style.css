@@ -1,6 +1,6 @@
 body {
     background-color: #dbeafe;
-    color: #1e293b;
+    color: #c4c717;
     font-family: Arial, sans-serif;
 
     display: flex;
@@ -14,8 +14,8 @@ body {
 
 #parrafo {
     font-size: 20px;
-    color: blue;
-    background-color: orange;
+    color: #2659cf;
+    background-color: white;
     padding: 15px;
     border-radius: 10px;
 }
@@ -29,8 +29,8 @@ body {
 }
 
 button {
-    background-color: mediumaquamarine;
-    color: rebeccapurple;
+    background-color: #bb690c;
+    color: white;
     padding: 10px 15px;
     border: none;
     border-radius: 8px;
@@ -39,5 +39,5 @@ button {
 }
 
 button:hover {
-    background-color: red;
+    background-color: #326635;
 }
